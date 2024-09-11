@@ -1,3 +1,15 @@
-.starter {
-  font-size: 18px;
+@import './styles/index';
+
+iframe {
+  display: none;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  &--width-menu {
+    overflow: hidden;
+  }
 }
