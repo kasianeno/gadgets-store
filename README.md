@@ -1,4 +1,5 @@
 - [DEMO LINK](https://kasianeno.github.io/gadgets-store/)
+- [DESIGN](https://www.figma.com/design/xMK2Dy0mfBbJJSNctmOuLW/Phone-catalog-(V2)-Rounded-Style-1?node-id=0-1&node-type=canvas&t=DjwuE6E522U73g6Y-0)
 
 <h1>Description</h1>
 <ul>
